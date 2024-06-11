@@ -1,4 +1,4 @@
-# Hello, I'm Karn Imwattana
+# Hello, I'm Arya Parashar
 
 I'm a Software Developer passionate about It Technology.
 I am currently learning Java.
